@@ -86,6 +86,37 @@ The dataset used for this project is:
    - Summarize key findings and patterns observed in Tableau.
    - Provide insights on potential actions, like improving job satisfaction or managing overtime, which could help reduce attrition.
 
+### How is attrition dependent on Age?
+
+![newplot](https://github.com/user-attachments/assets/536dc8f3-95d8-4cb7-81e8-fd02d1af36ea)
+
+Observation: As seen in the chart above, the attrition is maximum between the age groups 28-32. The attrition rate keeps on falling with increasing age, as people look after stability in their jobs at these point of times. Also at a very younger age, i.e. from 18-20, the chances of an employee leaving the organization is far more- since they are exploring at that point of time. It reaches a break even point at the age of 21
+
+### Is income the main factor towards employee attrition?
+
+![newplot-2](https://github.com/user-attachments/assets/ed407486-e644-4e23-a990-4a21ba4c1b39)
+
+Observation As seen in the above chart, the attrition rate is evidently high at very low income levels- less than 5k monthly. This decreases further- but a minor spike is noticed aorund 10k- indicating the middle class liveliood. They tend to shift towards a better standard of living, and hence move to a different job. When the monthly income is pretty decent, the chances of an employee leaving the organization is low- as seen by the flat line
+
+
+
+![newplot-3](https://github.com/user-attachments/assets/ae8497f3-74d4-4f5d-bef2-fa5596e310a6)
+
+![newplot-4](https://github.com/user-attachments/assets/e7935393-6904-4ebe-96ec-d42619a738aa)
+
+![newplot-5](https://github.com/user-attachments/assets/7ea3c8b0-b3c2-46be-8072-c0e054223162)
+
+![newplot-6](https://github.com/user-attachments/assets/29e524b0-8a4d-4b35-88be-53c5e81bc7de)
+
+![newplot-7](https://github.com/user-attachments/assets/f83e44f9-eae0-4543-b206-e3ebcb9cf035)
+
+![newplot-8](https://github.com/user-attachments/assets/040f3477-5853-494e-a11e-a8f1510d4705)
+
+![newplot-9](https://github.com/user-attachments/assets/077a745f-9dff-4a98-a53e-1f97c1928539)
+
+![newplot-10](https://github.com/user-attachments/assets/df56234f-e3d8-4635-bdfd-6a8ab964a1a7)
+
+![newplot-11](https://github.com/user-attachments/assets/8ab4a4b3-1a18-4a13-afd9-ae66ac1f1003)
 ---
 
 ## 🌿 Results and Conclusion
