@@ -89,10 +89,13 @@ The dataset used for this project is:
 ---
 
 ## 🌿 Results and Conclusion
-The Tableau dashboard provides a comprehensive view of employee attrition and related factors, helping HR teams to make data-driven decisions. Some of the notable insights include:
-- **High attrition in certain departments** and job roles, indicating areas that may benefit from targeted retention efforts.
-- **Positive correlation between job satisfaction and retention**, emphasizing the importance of employee engagement.
-- **Impact of overtime on attrition**, suggesting that work-life balance could be a factor in employee retention.
+Summary
+I have checked the data, and have come to infer the following observations:
+- People tend to switch to different jobs at the start of their careers, or at the earlier parts of it. Once they have settled with a family or have found stability in their jobs, they tend to stay long in the same organization- only going for vertical movements in the same organization.
+- Salary and stock options have a great motivation on the employees and people tend to leave the organization much less. Higher pay and more stock options have seen more employees remain loyal to their company.
+- Work-life balance is a great motivation factor for the employees. However, people with a good work-life balance, tend to switch in search of better opportunities and a better standard of living.
+- Departments where target meeting performance is very crucial (e.g. Sales) tend to have a greater chance of leaving the organization as compared to departments with more administrative perspective (E.g. Human Resources)
+- People with good Job Satisfaction and environmental satisfaction are loyal to the organization- and this speaks out loud for any Organization. However, people who are not very satisfied with their current project- tend to leave the organization far more.
 
 Through this project, I have strengthened my skills in data preparation and visualization, and the insights derived from this dashboard can guide organizations in shaping more effective retention strategies.
 
