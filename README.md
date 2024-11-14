@@ -91,6 +91,9 @@ The dataset used for this project is:
 You can explore the full interactive dashboard on Tableau Public here:  
 [HR Analytics Dashboard on Tableau](https://public.tableau.com/views/HRAnalyticsDashboard_17315971551840/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<img width="903" alt="Знімок екрана 2024-11-14 о 19 03 39" src="https://github.com/user-attachments/assets/f0dcb392-3908-40cf-9cc5-71905a2e4114">
+
+
 ## 📊 Dashboard Overview
 
 The **HR Analytics Dashboard** showcases various HR metrics and KPIs that provide insights into employee retention, demographics, and job satisfaction. Here’s a quick overview of the metrics covered:
